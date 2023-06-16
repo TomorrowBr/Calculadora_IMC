@@ -1,8 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
 
-/*import 'package:calculadora_imc/pessoa.dart';*/
-
 void main(List<String> arguments) {
   print("Bem vindos a nossa calculadora de IMC!");
 
